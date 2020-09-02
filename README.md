@@ -78,14 +78,14 @@ You should have a basic familiarity with the command line in case you need to do
   - [X] Confirm the existence of the `.git` directory (where Git versions and config are stored)
   - [X] View your current directory and copy the full path: `pwd`
   - [X] Open this README file in Atom and paste that path here: **/Users/jordanreed/Desktop/Comp Sci/Dig245/learn-git-milestones**
-- [ ] Use Git on the CLI
-  - [ ] [Confirm](https://docs.github.com/en/github/using-git/setting-your-username-in-git) your name and email is correct in the Git config
-  - [ ] View the status of your repo: `git status`
-  - [ ] View the changed files of your repo: `git diff`
-  - [ ] Add all changed files to the staging area `git add .`
-  - [ ] View the status of your repo `git status` to confirm it has been staged
-  - [ ] Commit your changes with the message `commit #3 from CLI`
-  - [ ] Use `git push` to [push those changes to your remote repo](https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository)
+- [X] Use Git on the CLI
+  - [X] [Confirm](https://docs.github.com/en/github/using-git/setting-your-username-in-git) your name and email is correct in the Git config
+  - [X] View the status of your repo: `git status`
+  - [X] View the changed files of your repo: `git diff`
+  - [X] Add all changed files to the staging area `git add .`
+  - [X] View the status of your repo `git status` to confirm it has been staged
+  - [X] Commit your changes with the message `commit #3 from CLI`
+  - [X] Use `git push` to [push those changes to your remote repo](https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository)
 
 
 ### Git in Atom
