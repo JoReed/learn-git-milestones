@@ -10,7 +10,7 @@ Below is a list of tasks. By mid-semester, everyone should...
 ### Instructions
 
 1. Fork this repository
-1. Complete and check off each of the tasks below, adding content where prompted with: **??**
+1. Complete and check off each of the tasks below, adding content where prompted with: **😅**
 1. Note: Sometimes I give the instructions or command you need and sometimes you have to read the documentation to find it.
 1. After you finish, celebrate your Git proficiency! 🙌  
 
